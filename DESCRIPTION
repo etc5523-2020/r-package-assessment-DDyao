@@ -1,16 +1,28 @@
-Package: yourPkg
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Package: DdyaoPackage
+Type: Package
+Title: A Package about a customized COVID-19 Shiny Web Application 
+Version: 0.1.0
+Imports:
+    shiny,
+    shinythemes,
+    plotly,
+    ggplot2,
+    dplyr,
+    lubridate,
+    bomrang,
+    readr,
+    DT,
+    markdown
+Author: Ddyao <Ddyao1021@163.com>
+Maintainer: Ddyao <Ddyao1021@163.com>
+Description: This is a package that can launch a web application based on Shiny framework.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

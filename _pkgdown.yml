@@ -1,0 +1,13 @@
+home:
+  title: DDyao package
+
+template:
+  params:
+    ganalytics: UA-53797708-7
+
+# customisedelement
+navbar:
+  type: inverse
+
+development:
+  mode: auto

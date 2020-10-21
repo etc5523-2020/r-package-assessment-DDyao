@@ -1,23 +1,38 @@
+# R-package-assessment-DDyao
 
-# Your Package Name
 <!-- badges: start -->
+
+[![R build
+status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-CMD-check/badge.svg)](https://github.com/etc5523-2020/r-package-assessment-DDyao/actions)
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 <!-- badges: end -->
 
-The goal of _your package name_ is to ...
 
-## Installation
+### ETC5523: Package Assessment Instructions
 
-You can install the  _your package name_ with:
+- Name：DIYAOCHEN
 
+- Stundent number:27203204
+
+
+### Installation from GitHub
 ``` r
+# Download the project and run it in R studio
+
+# install.packages("devtools")
+devtools::install_github("etc5523-2020/r-package-assessment-DDyao")
 ```
 
-## Example
+### Overview of the package
 
-This is a basic example which shows you how to solve a common problem:
+- In this DdyaoPackage, you can use the following command to launch a shiny application. 
 
 ``` r
-library(yourpkg)
-## basic example code
+library(DdyaoPackage)
+launch_app()
 ```
 
+### License
+- MIT License

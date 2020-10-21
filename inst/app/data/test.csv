@@ -1,0 +1,6 @@
+date,region_code,region_name,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinement,cumulative_positive_cases,daily_positive_cases,recovered,death,positive_clinical_activity,positive_surveys_tests,cumulative_cases,total_tests,total_people_tested,region_spatial
+24/2/20,13,Abruzzo,42.35122196,13.39843823,0,0,0,0,0,0,0,0,NA,NA,0,5,NA,Abruzzo
+23/9/20,7,Liguria,44.41149315,8.9326992,149,18,167,1426,1593,63,9582,1594,9352,3417,12769,291936,156756,Liguria
+23/9/20,3,Lombardia,45.46679409,9.190347404,308,33,341,8763,9104,77,79197,16925,94288,10938,105226,1990912,1239028,Lombardia
+23/9/20,11,Marche,43.61675973,13.5188753,24,4,28,658,686,26,6126,989,7801,0,7801,236514,139445,Marche
+23/9/20,14,Molise,41.55774754,14.65916051,3,1,4,128,132,1,468,23,583,40,623,40516,39092,Molise
