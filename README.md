@@ -1,23 +1,25 @@
+# r-package-assessment-DDyao
+- r-package-assessment-DDyao created by GitHub Classroom
 
-# Your Package Name
-<!-- badges: start -->
-<!-- badges: end -->
 
-The goal of _your package name_ is to ...
+### ETC5523: Package Assessment Instructions
 
-## Installation
+- Name：DIYAOCHEN
 
-You can install the  _your package name_ with:
+- Stundent number:27203204
 
-``` r
-```
 
-## Example
+### Installation from GitHub
 
-This is a basic example which shows you how to solve a common problem:
+  - libaray(DDyaoPackage)
 
-``` r
-library(yourpkg)
-## basic example code
-```
+  - launch_app()
+ 
+## Overview of the package
 
+- In this DdyaoPackage, you can use the following command to launch a shiny application. 
+
+  launch_app()
+
+## License
+- MIT License
