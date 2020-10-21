@@ -1,5 +1,5 @@
-# r-package-assessment-DDyao
-- r-package-assessment-DDyao created by GitHub Classroom
+# R-package-assessment-DDyao
+- R-package-assessment-DDyao created by GitHub Classroom
 
 <!-- badges: start -->
 
