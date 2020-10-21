@@ -1,6 +1,11 @@
 # r-package-assessment-DDyao
 - r-package-assessment-DDyao created by GitHub Classroom
 
+<!-- badges: start -->
+
+[![R build
+status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-CMD-check/badge.svg)](https://github.com/etc5523-2020/r-package-assessment-DDyao/actions)
+<!-- badges: end -->
 
 ### ETC5523: Package Assessment Instructions
 
