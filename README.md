@@ -4,9 +4,11 @@
 
 [![R build
 status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-CMD-check/badge.svg)](https://github.com/etc5523-2020/r-package-assessment-DDyao/actions)
-<!-- badges: end -->
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+<!-- badges: end -->
+
 
 ### ETC5523: Package Assessment Instructions
 
@@ -17,8 +19,7 @@ status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-C
 
 ### Installation from GitHub
 ``` r
-# install.packages("devtools")
-devtools::install_github("etc5523-2020/r-package-assessment-DDyao")
+# Download from GitHub repository and save at local computer, and open it in R studio.
 ```
 
 ### Overview of the package
