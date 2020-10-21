@@ -19,9 +19,10 @@ status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-C
 
 ### Installation from GitHub
 ``` r
+# Download the project and run it in R studio
+
 # install.packages("devtools")
-devtools::install_github("etc5523-2020/r-package-assessment-DDyao
-")
+devtools::install_github("etc5523-2020/r-package-assessment-DDyao")
 ```
 
 ### Overview of the package
