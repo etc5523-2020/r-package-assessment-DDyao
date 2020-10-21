@@ -19,7 +19,7 @@ status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-C
 devtools::install_github("etc5523-2020/r-package-assessment-DDyao")
 ```
 
-## Overview of the package
+### Overview of the package
 
 - In this DdyaoPackage, you can use the following command to launch a shiny application. 
 
@@ -28,5 +28,5 @@ library(DdyaoPackage)
 launch_app()
 ```
 
-## License
+### License
 - MIT License
