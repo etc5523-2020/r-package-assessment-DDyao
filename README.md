@@ -10,16 +10,18 @@
 
 
 ### Installation from GitHub
+# install.packages("devtools")
+devtools::install_github("etc5523-2020/r-package-assessment-DDyao")
+```
 
-  - libaray(DDyaoPackage)
-
-  - launch_app()
- 
 ## Overview of the package
 
 - In this DdyaoPackage, you can use the following command to launch a shiny application. 
 
-  launch_app()
+``` r
+library(DdyaoPackage)
+launch_app()
+```
 
 ## License
 - MIT License
