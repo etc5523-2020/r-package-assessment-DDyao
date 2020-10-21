@@ -1,0 +1,52 @@
+---
+title: "Ddyao-vignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Ddyao-vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(DdyaoPackage)
+```
+
+
+### How to launch the app?
+
+After you load the DyyaoPackage, you can launch the app by typing following command:
+
+```{data format = "text", encoding = "asis", output.var = "df"}
+launch_app()
+```
+
+### What the app does?
+
+Generally, the app can provide some useful data visualtion about COVID19 in Italy.
+
+### Guidelines for the app
+
+#### Table
+- You can click the top of the table(column name)to filter and arrange the case of COVID19 in Italy for each month.
+the column name including month, MonthlyTotal, recovered, death, recovered rate and death rate. 
+You can do your research in any combination you want.
+
+
+#### Figure
+- About the figure which is the province vs numbers of cases about each province.
+on the left of the bottom, you can select the which month do you want to know the numbers of COVID19 case for each province.
+on the other hand, in the poltly, you can click each bar to know the detail of each province for that.
+
+#### Navigation
+- In the middle of the page, you can see the navigation. you can select the about package to visit the introduction and the data analysis for the COVID19 with Italy.
+
+
+
+
