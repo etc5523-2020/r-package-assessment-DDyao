@@ -20,7 +20,7 @@ status](https://github.com/etc5523-2020/r-package-assessment-DDyao/workflows/R-C
 ### Installation from GitHub
 ``` r
 # install.packages("devtools")
-devtools::install_github("etc5523-2020/r-package-assessment-Siddhant-96
+devtools::install_github("etc5523-2020/r-package-assessment-DDyao
 ")
 ```
 
